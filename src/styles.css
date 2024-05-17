@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+
+
+.MainArea{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://images.pexels.com/photos/247431/pexels-photo-247431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    
+}
